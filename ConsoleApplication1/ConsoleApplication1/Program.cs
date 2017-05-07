@@ -10,7 +10,15 @@ namespace ConsoleApplication1
     {
         public class test
         {
+            public int i;
+            public int a;
+            public void method1() {
 
+            }
+            public void method2()
+            {
+
+            }
         }
         static void Main(string[] args)
         {
